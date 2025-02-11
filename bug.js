@@ -1,0 +1,1 @@
+This error occurs when using AsyncStorage in Expo and involves a race condition where you might try to access AsyncStorage before it's fully initialized. This can lead to unexpected behavior or crashes.
